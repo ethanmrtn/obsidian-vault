@@ -1,0 +1,1 @@
+I wanna host this vault for the fun of it, and even if no one’s listening it feels like a good idea to learn with the garage door open. A quick google tells me that the best option is to use [Quartz](https://quartz.jzhao.xyz) to convert my obsidian vault into a static site. 
